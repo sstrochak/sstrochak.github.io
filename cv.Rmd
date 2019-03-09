@@ -9,7 +9,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 My full CV is available [here](cv_files/Strochak_CV_Nov2018.pdf).
 
-### Selected
+### Selected publications
 
 Alanna McCargo, Bing Bai, and **Sarah Strochak**, [Small Dollar Mortgages: A Loan Performance Analysis](https://www.urban.org/research/publication/small-dollar-mortgages-loan-performance-analysis), Urban Institute: Washington, DC
 
@@ -18,3 +18,5 @@ Alanna McCargo, Bing Bai, and **Sarah Strochak**, [Small Dollar Mortgages: A Loa
 ### Selected blog posts
 
 ### In the news
+
+Brulliard, Karin and Scott Clement, [How many Americans have pets? An investigation of fuzzy statistics](https://www.washingtonpost.com/science/2019/01/31/how-many-americans-have-pets-an-investigation-into-fuzzy-statistics/?utm_term=.50f982941a55), January 31, 2019, Washington Post.
