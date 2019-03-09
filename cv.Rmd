@@ -9,10 +9,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 My full CV is available [here](cv_files/Strochak_CV_Nov2018.pdf).
 
-### Publications
+### Selected
 
 Alanna McCargo, Bing Bai, and **Sarah Strochak**, [Small Dollar Mortgages: A Loan Performance Analysis](https://www.urban.org/research/publication/small-dollar-mortgages-loan-performance-analysis), Urban Institute: Washington, DC
 
 ### Monthly publications
 
-### Blog posts
+### Selected blog posts
+
+### In the news
