@@ -11,12 +11,37 @@ My full CV is available [here](cv_files/Strochak_CV_Nov2018.pdf).
 
 ### Selected publications
 
-Alanna McCargo, Bing Bai, and **Sarah Strochak**, [Small Dollar Mortgages: A Loan Performance Analysis](https://www.urban.org/research/publication/small-dollar-mortgages-loan-performance-analysis), Urban Institute: Washington, DC
+McCargo, Alanna, Bing Bai, and **Sarah Strochak**. 2018. [Small Dollar Mortgages: A Loan Performance Analysis](https://www.urban.org/research/publication/small-dollar-mortgages-loan-performance-analysis). Washinton, DC: Urban Institute.
+
+Goodman, Laurie, Alanna McCargo, Bing Bai, Edward Golding, and **Sarah Strochak**. 2018. [Barriers to Accessing Homeownership: Down Payment, Credit, and Affordability](https://www.urban.org/research/publication/barriers-accessing-homeownership-down-payment-credit-and-affordability-2018). Washington, DC: Urban Institute.
+
+Choi, Jung Hyun, Jun Zhu, Laurie Goodman, Bhargavi Ganesh, and **Sarah Strochak**. 2018. [Millennial Homeownership.](https://www.urban.org/research/publication/millennial-homeownership) Washington, DC: Urban Institute.
+
+McCargo, Alanna, Bing Bai, Taz George, and **Sarah Strochak**. 2018. [Small Dollar Mortgages for Single-Family Residential Properties.](https://www.urban.org/research/publication/small-dollar-mortgages-single-family-residential-properties) Washington, DC: Urban Institute.
 
 ### Monthly publications
 
+Goodman, Laurie, Alanna McCargo, Edward Golding, Jim Parrott, Sheryl Pardo, Todd Hill, Jun Zhu, Karan Kaul, Bing Bai, **Sarah Strochak**, John Walsh, and Andrea Reyes. 2019. [Housing Finance at a Glance: A Monthly Chartbook](https://www.urban.org/policy-centers/housing-finance-policy-center/projects/housing-finance-glance-monthly-chartbooks). Washington, DC: Urban Institute.
+
+Ginnie Mae (Government National Mortgage Association). 2018. [Global Markets Analysis Report](https://www.urban.org/policy-centers/housing-finance-policy-center/projects/global-markets-analysis-report). Washington, DC: Ginnie Mae.
+
 ### Selected blog posts
+
+Laurie Goodman, Edward Golding, and **Sarah Strochak**, [“Cash-out refinancing is on the rise again. Here’s why we aren’t worried,”](https://www.urban.org/urban-wire/cash-out-refinancing-rise-again-heres-why-we-arent-worried) Urban Wire (blog), Urban Institute, October 29, 2018.
+
+**Sarah Strochak**, [“How to Create State and County Maps Easily in R,”](https://medium.com/@urban_institute/how-to-create-state-and-county-maps-easily-in-r-577d29300bb2) Data@Urban (blog), Urban Institute, July 10, 2018.
+
+Alanna McCargo and Sarah Strochak, [“Mapping the black homeownership gap,”](https://www.urban.org/urban-wire/mapping-black-homeownership-gap) Urban Wire (blog), Urban Institute, February 26, 2018.
+
+**Sarah Strochak** and Bhargavi Ganesh, [“Visualizing Hurricane Harvey’s impact on Houston’s neighborhoods,”](https://www.urban.org/urban-wire/visualizing-hurricane-harveys-impact-houstons-neighborhoods) Urban Wire (blog), Urban Institute, September 13, 2017.
 
 ### In the news
 
-Brulliard, Karin and Scott Clement, [How many Americans have pets? An investigation of fuzzy statistics](https://www.washingtonpost.com/science/2019/01/31/how-many-americans-have-pets-an-investigation-into-fuzzy-statistics/?utm_term=.50f982941a55), January 31, 2019, Washington Post.
+Brulliard, Karin and Scott Clement, [How many Americans have pets? An investigation of fuzzy statistics](https://www.washingtonpost.com/science/2019/01/31/how-many-americans-have-pets-an-investigation-into-fuzzy-statistics/?utm_term=.50f982941a55), Washington Post, January 31, 2019.
+
+Lydia DePillis, [“This Texas military town has nearly closed the black and white homeownership gap,”](https://money.cnn.com/2018/04/17/news/economy/kileen-texas-homeownership/index.html) CNN Money, April 17, 2018.
+
+Andrew Small, [“Map of the Day,”](https://www.citylab.com/solutions/2018/02/citylab-daily-the-quest-for-a-new-black-city/554417/) CityLab, February 27, 2018.
+
+Leah Binkovotz, [“Where did Harvey hit Houston the hardest?”](https://www.houstonchronicle.com/local/gray-matters/article/Where-did-Harvey-hit-Houston-the-hardest-12237833.php) Houston Chronicle, September 28, 2017.
+
