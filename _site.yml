@@ -4,7 +4,7 @@ navbar:
   title: "Sarah Strochak"
   left:
     - text: "About"
-      href: research.html
+      href: about.html
     - text: "CV"
       href: cv.html
   right:
