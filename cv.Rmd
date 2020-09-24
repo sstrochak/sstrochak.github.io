@@ -9,4 +9,4 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```{r}
 xfun::embed_file("cv_files/Strochak_CV_Nov2018.pdf")
-```
+``` 

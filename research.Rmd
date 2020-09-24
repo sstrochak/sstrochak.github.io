@@ -9,23 +9,19 @@ knitr::opts_chunk$set(echo = TRUE)
 
 My full CV is available [here](cv_files/Strochak_CV_Nov2018.pdf).
 
-### Selected publications
+### Publications
 
-McCargo, Alanna, Bing Bai, and **Sarah Strochak**. 2018. [Small Dollar Mortgages: A Loan Performance Analysis](https://www.urban.org/research/publication/small-dollar-mortgages-loan-performance-analysis). Washinton, DC: Urban Institute.
+**Strochak, Sarah**, Aaron Shroyer, Jung Hyun Choi, Kathryn Reynolds, and Laurie Goodman. 2020. [How Much Assistance is Needed to Support Renters through the COVID-19 Crisis?](https://www.urban.org/research/publication/how-much-assistance-needed-support-renters-through-covid-19-crisis) Washington, DC: Urban Institute.
 
-Goodman, Laurie, Alanna McCargo, Bing Bai, Edward Golding, and **Sarah Strochak**. 2018. [Barriers to Accessing Homeownership: Down Payment, Credit, and Affordability](https://www.urban.org/research/publication/barriers-accessing-homeownership-down-payment-credit-and-affordability-2018). Washington, DC: Urban Institute.
-
-Choi, Jung Hyun, Jun Zhu, Laurie Goodman, Bhargavi Ganesh, and **Sarah Strochak**. 2018. [Millennial Homeownership.](https://www.urban.org/research/publication/millennial-homeownership) Washington, DC: Urban Institute.
+**Strochak, Sarah**, Jung Hyun Choi, and Laurie Goodman. 2020. [The Impacts of US Military Service on Homeownership and Income](https://www.urban.org/sites/default/files/publication/101495/the_impacts_of_us_military_service_on_homeownership_and_income_1.pdf). Washington, DC: Urban Institute.
 
 McCargo, Alanna, Bing Bai, Taz George, and **Sarah Strochak**. 2018. [Small Dollar Mortgages for Single-Family Residential Properties.](https://www.urban.org/research/publication/small-dollar-mortgages-single-family-residential-properties) Washington, DC: Urban Institute.
 
-### Monthly publications
+### Blog posts
 
-Goodman, Laurie, Alanna McCargo, Edward Golding, Jim Parrott, Sheryl Pardo, Todd Hill, Jun Zhu, Karan Kaul, Bing Bai, **Sarah Strochak**, John Walsh, and Andrea Reyes. 2019. [Housing Finance at a Glance: A Monthly Chartbook](https://www.urban.org/policy-centers/housing-finance-policy-center/projects/housing-finance-glance-monthly-chartbooks). Washington, DC: Urban Institute.
+**Sarah Strochak**, ["Moving to a 70 Percent Income Replacement for Unemployment Insurance Benefits Will Disproportionately Hurt Low-Income Renters,"](https://www.urban.org/urban-wire/moving-70-percent-income-replacement-unemployment-insurance-benefits-will-disproportionately-hurt-low-income-renters) Urban Wire (blog), Urban Institute, July 31, 2020.
 
-Ginnie Mae (Government National Mortgage Association). 2018. [Global Markets Analysis Report](https://www.urban.org/policy-centers/housing-finance-policy-center/projects/global-markets-analysis-report). Washington, DC: Ginnie Mae.
-
-### Selected blog posts
+**Sarah Strochak**, Laurie Goodman, and Sheryl Pardo, ["Is the Sudden Increase in Black Homeownership Too Good to Be True?"](https://www.urban.org/urban-wire/sudden-increase-black-homeownership-too-good-be-true) Urban Wire (blog), Urban Institute, February 4, 2020.
 
 Laurie Goodman, Edward Golding, and **Sarah Strochak**, [“Cash-out refinancing is on the rise again. Here’s why we aren’t worried,”](https://www.urban.org/urban-wire/cash-out-refinancing-rise-again-heres-why-we-arent-worried) Urban Wire (blog), Urban Institute, October 29, 2018.
 
@@ -35,9 +31,15 @@ Alanna McCargo and Sarah Strochak, [“Mapping the black homeownership gap,”](
 
 **Sarah Strochak** and Bhargavi Ganesh, [“Visualizing Hurricane Harvey’s impact on Houston’s neighborhoods,”](https://www.urban.org/urban-wire/visualizing-hurricane-harveys-impact-houstons-neighborhoods) Urban Wire (blog), Urban Institute, September 13, 2017.
 
+### Presentations
+
+[Housing and Land Use Implications of Proposed Split Roll Tax Reform](https://www.urban.org/events/how-changes-property-taxes-shape-communities-two-case-studies), August 6, 2020. Urban Institute.
+
 ### In the news
 
-Brulliard, Karin and Scott Clement, [How many Americans have pets? An investigation of fuzzy statistics](https://www.washingtonpost.com/science/2019/01/31/how-many-americans-have-pets-an-investigation-into-fuzzy-statistics/?utm_term=.50f982941a55), Washington Post, January 31, 2019.
+Liam Dillon, [Tenants keeping up rent payments during pandemic, but wave of evictions could loom,](https://www.latimes.com/homeless-housing/story/2020-07-16/tenants-still-keep-up-rent-payments-during-coronavirus-but-wave-of-evictions-could-loom), Los Angeles Times, July 16, 2020.
+
+Karin Brulliard and Scott Clement, [How many Americans have pets? An investigation of fuzzy statistics](https://www.washingtonpost.com/science/2019/01/31/how-many-americans-have-pets-an-investigation-into-fuzzy-statistics/?utm_term=.50f982941a55) Washington Post, January 31, 2019.
 
 Lydia DePillis, [“This Texas military town has nearly closed the black and white homeownership gap,”](https://money.cnn.com/2018/04/17/news/economy/kileen-texas-homeownership/index.html) CNN Money, April 17, 2018.
 

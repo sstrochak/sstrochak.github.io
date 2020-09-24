@@ -1,0 +1,43 @@
+/* make titles blue */
+	h1 {
+		color: #489FB5;
+	}
+	
+	
+body {
+  background-color: #ede7e3;
+}
+
+.navbar {
+  background-color: #16697A;
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.navbar-default .navbar-brand {
+    color: #FFFFFF;
+}
+
+.container {
+  color: #ff0000;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #FFFFFF;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+    color: #16697A;
+    background-color: #FFFFFF;
+}
+
+/* Global Formats */
+.main-container {
+  font-family: Calibri;
+}
+
+/* Hyper-links */
+.a {
+	color: #FFA62B;
+}
+
