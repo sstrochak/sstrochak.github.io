@@ -1,12 +1,36 @@
 ---
-title: "Sarah Strochak"
+title: ""
 output: html_document
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## Who am I?!
+<div style="margin-bottom:50px;">
+</div>
 
+<div style= "float:left;position: relative;">
 
+```{r, out.extra="padding:10px", out.width="90%"}
+knitr::include_graphics(here::here("index_files", "me-hex.jpg"))
+```
+</div>
+<br>
+
+# Sarah Strochak
+
+Sarah Strochak is a PhD candidate in Public Policy at the Robert F. Wagner School of Public Service at New York University. She works as a Doctoral Fellow at the NYU Furman Center.
+
+Sarah's research is on housing and housing finance. She is interested in how access to credit, housing affordability, and the financial services industry shapes communities. She focuses on bringing data science techniques into the academic research process.
+
+<br> <br>
+<br>
+
+ <center>
+ 
+More about research [here](https://sstrochak.github.io/research.html). CV [here](https://sstrochak.github.io/cv.html). 
+<br>
+The code for this website lives [here](https://github.com/sstrochak/sstrochak.github.io). Inspired by this blog post from Name Name.
+
+</center>
