@@ -13,7 +13,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <div style= "float:left;position: relative;">
 
 ```{r, out.extra="padding:10px", out.width="90%"}
-knitr::include_graphics(here::here("index_files", "me-hex.jpg"))
+knitr::include_graphics(here::here("index_files", "me-hex-2.png"))
 ```
 </div>
 <br>

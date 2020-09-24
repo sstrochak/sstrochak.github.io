@@ -27,8 +27,12 @@ body {
 }
 
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
-    color: #16697A;
+    color: #82c0cc;
     background-color: #FFFFFF;
+}
+
+nav a.hover {
+  color: #82c0cc;
 }
 
 /* Global Formats */
@@ -37,7 +41,7 @@ body {
 }
 
 /* Hyper-links */
-.a {
+a:link {
 	color: #FFA62B;
 }
 
