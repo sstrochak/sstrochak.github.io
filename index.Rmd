@@ -8,29 +8,30 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 <div style="margin-bottom:50px;">
+
 </div>
 
 <div style= "float:left;position: relative;">
 
-```{r, out.extra="padding:10px", out.width="90%"}
-knitr::include_graphics(here::here("index_files", "me-hex-2.png"))
+```{r, out.width="30%", out.extra='style="float:left; padding:10px"'}
+knitr::include_graphics(here::here("index_files", "me.png"))
 ```
+
 </div>
+
+<div style= "float:right;position: relative; right: 30px; top: -7px;">
+
 
 # Sarah Strochak
 
-Sarah Strochak is a PhD student in Public Policy at the Robert F. Wagner School of Public Service at New York University. She works as a Doctoral Fellow at the NYU Furman Center for Real Estate and Urban Policy.
+I'm currently a PhD student in Public Policy at NYU Wagner, and a doctoral fellow at the Furman Center.
 
-Sarah's research is on housing and housing finance. She is interested in how access to credit, housing affordability, and the financial services industry shapes communities. She focuses on bringing data science techniques into the academic research process.
+My research is at the intersection of urban economics, public economics, and housing policy. My current work studies the Housing Choice Voucher program, including measuring program take-up, evaluating policy changes, and identifying how the program contributes to economic mobility. 
 
-<br> <br>
+Before coming to NYU, I worked as a researcher at the Housing Finance Policy Center at the Urban Institute, researching the mortgage market, access to credit, and land use policy.
+
+More about my research can be found here [here](https://sstrochak.github.io/research.html). My CV is [here](cv_files/Sarah_Strochak_CV_Sep2023.pdf). 
 <br>
-<br>
 
- <center>
- 
-More about research [here](https://sstrochak.github.io/research.html). CV [here](https://sstrochak.github.io/cv.html). 
-<br>
-The code for this website lives [here](https://github.com/sstrochak/sstrochak.github.io). Inspired by this blog post from Name Name.
+</div>
 
-</center>

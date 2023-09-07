@@ -1,16 +1,18 @@
 /* make titles blue */
 	h1 {
-		color: #489FB5;
+		color: #3C5556;
 	}
 	
 	
 body {
-  background-color: #ede7e3;
+  background-color: #F6EFE7;
+  font-family: Roboto;
+  color: #000000;
 }
 
 .navbar {
-  background-color: #16697A;
-  color: #ffffff;
+  background-color: #3C5556;
+  color: #F6EFE7;
   font-weight: bold;
 }
 
@@ -19,7 +21,7 @@ body {
 }
 
 .container {
-  color: #ff0000;
+  color: #000000;
 }
 
 .navbar-default .navbar-nav>li>a {
@@ -27,21 +29,18 @@ body {
 }
 
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
-    color: #82c0cc;
-    background-color: #FFFFFF;
+    color: #F5D4C3;
+    background-color: #F5D4C3;
 }
 
 nav a.hover {
-  color: #82c0cc;
+  color: #F5D4C3;
 }
 
-/* Global Formats */
-.main-container {
-  font-family: Calibri;
-}
+
 
 /* Hyper-links */
 a:link {
-	color: #FFA62B;
+	color: #E09789;
 }
 

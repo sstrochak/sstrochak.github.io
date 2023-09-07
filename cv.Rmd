@@ -8,5 +8,5 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 ```{r}
-xfun::embed_file("cv_files/Strochak_CV_Nov2018.pdf")
+xfun::embed_file("cv_files/Sarah_Strochak_CV_Sep2023.pdf")
 ``` 
